@@ -1,0 +1,15 @@
+{
+  "name": "GLS MOLINA Inventario",
+  "short_name": "GLS Inventario",
+  "icons": [
+    {
+      "src": "/logo-gls.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0033A0"
+}
